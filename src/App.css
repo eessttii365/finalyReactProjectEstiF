@@ -1,0 +1,21 @@
+body{
+    direction: rtl;
+    text-align: center;
+    justify-content: center;
+    width: 100vw;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1;
+    font-weight: 400;
+    font-size: 22px; 
+    background-image: repeating-linear-gradient(-45deg,#ccc0,#ccc0 3px,hsla(0,0%,86%,.722) 0,#dbdbdb00 6px);
+
+}
+
+.header{
+    background-color: #e7ebef;
+    height: 70px;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    z-index:100;
+}
